@@ -1,0 +1,559 @@
+{
+    "title": "allWorkouts",
+    "description": "allWorkoutsFullDescription",
+    "options": [
+        {
+            "id": 0,
+            "title": "yoga",
+            "description": "yogaDescription",
+            "image": "yoga.jpg",
+            "link": "/workouts/0",
+            "options": [
+                {
+                    "id": 0,
+                    "title": "yogaVinyasa",
+                    "description": "yogaVinyasaDescription",
+                    "image": "gallery/yogaVinyasa01.jpg",
+                    "link": "/workout_details/0/0",
+                    "minutes": 35,
+                    "intensity": 1,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "yogaVinyasa01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "yogaVinyasa02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "yogaVinyasa03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "yogaVinyasa04.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/9kOCY0KNByw?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/_kl_DxglATI?rel=0"
+                        },
+                        {
+                            "index": 2,
+                            "url": "https://www.youtube.com/embed/tJsj4ruWat0?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 1,
+                    "title": "yogaBikram",
+                    "description": "yogaBikramDescription",
+                    "image": "gallery/yogaBikram03.jpg",
+                    "link": "/workout_details/0/1",
+                    "minutes": 45,
+                    "intensity": 2,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "yogaBikram01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "yogaBikram02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "yogaBikram03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "yogaBikram04.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/Ocg3InAEZMU?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/nnnRHJ12Sd4?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 2,
+                    "title": "yogaPower",
+                    "description": "yogaPowerDescription",
+                    "image": "gallery/yogaPower01.jpg",
+                    "link": "/workout_details/0/2",
+                    "minutes": 15,
+                    "intensity": 3,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "yogaPower01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "yogaPower02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "yogaPower03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "yogaPower04.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/6rh6pVGTqRU?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/h_9kSTdd9c0?rel=0"
+                        }
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "title": "pilates",
+            "description": "pilatesDescription",
+            "image": "pilates.jpg",
+            "link": "/workouts/1",
+            "options": [
+                {
+                    "id": 0,
+                    "title": "pilatesClassic",
+                    "description": "pilatesClassicDescription",
+                    "image": "gallery/pilatesClassic01.jpg",
+                    "link": "/workout_details/1/0",
+                    "minutes": 45,
+                    "intensity": 1,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "pilatesClassic01.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/yDDFS1kPplI?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/Itui6v6nRYI?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 1,
+                    "title": "pilatesStott",
+                    "description": "pilatesStottDescription",
+                    "image": "stottPilates.jpg",
+                    "link": "/workout_details/1/1",
+                    "minutes": 55,
+                    "intensity": 2,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "pilatesStott01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "pilatesStott02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "pilatesStott03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "pilatesStott04.jpg"
+                        },
+                        {
+                            "index": 4,
+                            "name": "pilatesStott05.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/ZbGMaIkHrw8?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/8m7cJ-dlXz8?rel=0"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "id": 0,
+                            "user": "Milan",
+                            "rating": 3,
+                            "date": "27/04/2020",
+                            "text": "Istegao sam misic dok sam radio vezbu :("
+                        },
+                        {
+                            "id": 1,
+                            "user": "Jovanka",
+                            "rating": 5,
+                            "date": "26/04/2020",
+                            "text": "Sjajan trening i sjajna teretana. Najbolji treneri na svetu <3"
+                        },
+                        {
+                            "id": 2,
+                            "user": "Katarina",
+                            "rating": 2,
+                            "date": "20/04/2020",
+                            "text": "Lose"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "pilatesReformer",
+                    "description": "pilatesReformerDescription",
+                    "image": "reformerPilates.jpg",
+                    "link": "/workout_details/1/2",
+                    "minutes": 55,
+                    "intensity": 4,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "pilatesReformer01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "pilatesReformer02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "pilatesReformer03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "pilatesReformer04.jpg"
+                        },
+                        {
+                            "index": 4,
+                            "name": "pilatesReformer05.jpg"
+                        },
+                        {
+                            "index": 5,
+                            "name": "pilatesReformer06.jpg"
+                        },
+                        {
+                            "index": 6,
+                            "name": "pilatesReformer07.jpg"
+                        },
+                        {
+                            "index": 7,
+                            "name": "pilatesReformer08.jpg"
+                        },
+                        {
+                            "index": 8,
+                            "name": "pilatesReformer09.jpg"
+                        },
+                        {
+                            "index": 9,
+                            "name": "pilatesReformer10.jpg"
+                        },
+                        {
+                            "index": 10,
+                            "name": "pilatesReformer11.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/M43CvYO3EOw?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/le1iFVxW8eY?rel=0"
+                        },
+                        {
+                            "index": 2,
+                            "url": "https://www.youtube.com/embed/fOpTYaS1xSU?rel=0"
+                        }
+                    ],
+                    "comments": [
+                        {
+                            "id": 0,
+                            "user": "Jelena",
+                            "rating": 5,
+                            "date": "29/04/2020",
+                            "text": "Fantastičan program, čak sam kupila jednu spravu za sebe kući!"
+                        },
+                        {
+                            "id": 1,
+                            "user": "Dragan",
+                            "rating": 4,
+                            "date": "17/04/2020",
+                            "text": "Idem u ovu teretanu već godinu dana i odlučio sam da probam nešto novo. Preporuke"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "core",
+            "description": "coreDescription",
+            "image": "core.jpg",
+            "link": "/workouts/2",
+            "options": [
+                {
+                    "id": 0,
+                    "title": "coreBeginner",
+                    "description": "coreBeginnerDescription",
+                    "image": "gallery/coreBeginner02.jpg",
+                    "link": "/workout_details/2/0",
+                    "minutes": 15,
+                    "intensity": 3,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "coreBeginner01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "coreBeginner02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "coreBeginner03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "coreBeginner04.jpg"
+                        },
+                        {
+                            "index": 4,
+                            "name": "coreBeginner05.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/l24BW_T0xI4?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/_iggFmnO6r8?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 1,
+                    "title": "coreIntermediate",
+                    "description": "coreIntermediateDescription",
+                    "image": "gallery/coreIntermediate02.jpg",
+                    "link": "/workout_details/2/1",
+                    "minutes": 25,
+                    "intensity": 4,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "coreIntermediate01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "coreIntermediate02.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/dJlFmxiL11s?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/-b2lNLq3EaA?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 2,
+                    "title": "coreAdvanced",
+                    "description": "coreAdvancedDescription",
+                    "image": "gallery/coreAdvanced04.jpg",
+                    "link": "/workout_details/2/2",
+                    "minutes": 20,
+                    "intensity": 5,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "coreAdvanced01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "coreAdvanced02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "coreAdvanced03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "coreAdvanced04.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/N5ViYeGJOCA?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/K7xxmcUPLyU?rel=0"
+                        }
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "cardio",
+            "description": "cardioDescription",
+            "image": "cardio.jpg",
+            "link": "/workouts/3",
+            "options": [
+                {
+                    "id": 0,
+                    "title": "cardioHiit4020",
+                    "description": "cardioHiit4020Description",
+                    "image": "gallery/cardio4020HIIT03.jpg",
+                    "link": "/workout_details/3/0",
+                    "minutes": 35,
+                    "intensity": 4,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "cardio4020HIIT01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "cardio4020HIIT02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "cardio4020HIIT03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "cardio4020HIIT04.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/ml6cT4AZdqI?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/yplP5cLuyf4?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 1,
+                    "title": "cardioTabata",
+                    "description": "cardioTabataDescription",
+                    "image": "gallery/cardioTabata03.jpg",
+                    "link": "/workout_details/3/1",
+                    "minutes": 35,
+                    "intensity": 5,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "cardioTabata01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "cardioTabata02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "cardioTabata03.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/sHgLdjyhbdA?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/kTvHJe6_h1c?rel=0"
+                        }
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 2,
+                    "title": "cardioAerobicHiit",
+                    "description": "cardioAerobicHiitDescription",
+                    "image": "gallery/cardioAerobicHIIT03.jpg",
+                    "link": "/workout_details/3/2",
+                    "minutes": 65,
+                    "intensity": 3,
+                    "gallery": [
+                        {
+                            "index": 0,
+                            "name": "cardioAerobicHIIT01.jpg"
+                        },
+                        {
+                            "index": 1,
+                            "name": "cardioAerobicHIIT02.jpg"
+                        },
+                        {
+                            "index": 2,
+                            "name": "cardioAerobicHIIT03.jpg"
+                        },
+                        {
+                            "index": 3,
+                            "name": "cardioAerobicHIIT04.jpg"
+                        },
+                        {
+                            "index": 4,
+                            "name": "cardioAerobicHIIT05.jpg"
+                        }
+                    ],
+                    "videos": [
+                        {
+                            "index": 0,
+                            "url": "https://www.youtube.com/embed/gdfq0_suwhk?rel=0"
+                        },
+                        {
+                            "index": 1,
+                            "url": "https://www.youtube.com/embed/vBVoodacTf8?rel=0"
+                        }
+                    ],
+                    "comments": []
+                }
+            ]
+        }
+    ]
+}
